@@ -1,0 +1,1 @@
+# Implementing-a-single-neuron-model-manually-using-Python.
